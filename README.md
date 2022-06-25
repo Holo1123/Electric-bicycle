@@ -3,7 +3,7 @@ A pedal bike modified to be electric powered
 
 I bought the front end of an E-Scooter (the rest was missing) from a scrap yard and was thrilled to find out that the hub motor and the control electronics were all present.
 
-![alt text](https://github.com/Holo1123/Electric-bicycle/blob/main/Scooty1.png?width=100))
+![](https://github.com/Holo1123/Electric-bicycle/blob/main/Scooty1.png | width=100)
 
 The next step was figuring out wether they still worked or not.
 Determining what connected where was easy as all the cables had different connectors.
