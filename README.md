@@ -8,9 +8,9 @@ I bought the front end of an E-Scooter (the rest was missing) from a scrap yard 
 The next step was figuring out wether they still worked or not.
 Determining what connected where was easy as all the cables had different connectors.
 
-![alt text](https://github.com/Holo1123/Electric-bicycle/blob/main/Motor_Controller_labled.png?raw=true)
-
-![alt text](https://github.com/Holo1123/Electric-bicycle/blob/main/Electronics1.png?raw=true)
+Motor Controller         |  All components
+:-------------------------:|:-------------------------:
+ <img src="https://github.com/Holo1123/Electric-bicycle/blob/main/Motor_Controller_labled.png" width="750">| <img src="https://github.com/Holo1123/Electric-bicycle/blob/main/Electronics1.png" width="750"> 
 
 The controller required a 36v Battery and I was able to find one rather easily at the same junkyard.
   
