@@ -25,6 +25,6 @@ To solve this I got a motorcycle hub machined so that the motor would fit inside
 
 Front            |  Back
 :-------------------------:|:-------------------------:
- <img src="https://github.com/Holo1123/Electric-bicycle/blob/main/Front_Hub.jpg" width="500">|  ![](https://github.com/Holo1123/Electric-bicycle/blob/main/Back_Hub.jpg)
+ <img src="https://github.com/Holo1123/Electric-bicycle/blob/main/Front_Hub.jpg" width="500">| <img src="https://github.com/Holo1123/Electric-bicycle/blob/main/Back_Hub.jpg" width="500"> 
 
 
